@@ -1,0 +1,34 @@
+#content {
+    width: 500px;
+    margin: auto;
+    font-size: 12pt;
+}
+
+#title-name {
+    font-size: 24pt;
+    margin: 20px 0 10px
+}
+
+#socials {
+    margin: 10px 0px
+}
+
+#projects {
+    margin-top: 20px
+}
+
+.project-title {
+    font-size: 18pt;
+}
+
+article.project {
+    margin: 20px 0px
+}
+
+article.project .year {
+    opacity: 50%
+}
+
+@media only screen and (min-width: 800px) {
+
+}
